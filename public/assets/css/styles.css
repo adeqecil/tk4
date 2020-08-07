@@ -1,0 +1,36 @@
+/* Login */
+.button-login {
+    background: dodgerblue;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.h2 {
+    text-align: center;
+    padding-bottom: 10px;
+    color: black;
+}
+
+.form-login {
+    background-color: white;
+}
+
+.datatables {
+    text-align: center;
+}
+
+.btn-add {
+    width: auto;
+    float: left;
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-add-product-user {
+    margin-top: 10px;
+}
